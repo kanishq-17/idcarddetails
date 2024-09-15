@@ -1,1 +1,1 @@
-# jiet-jgieduhub-idcarddetails
+# idcarddetails
